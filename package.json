@@ -1,0 +1,23 @@
+{
+  "name": "header-parser",
+  "version": "0.1.0",
+  "description": "FreeCodeCamp: Request Header Parser Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdreid/headerParser.git"
+  },
+  "author": "trevor.d.reid@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdreid/headerParser/issues"
+  },
+  "homepage": "https://github.com/tdreid/headerParser#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "^0.1.0"
+  }
+}
